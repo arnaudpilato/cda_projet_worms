@@ -1,0 +1,30 @@
+
+  #################
+  # Worms project #
+  #################
+
+CdC version 1.0
+
+# Requirement 
+
+Il n'est pas demandé d'interface utilisateur pour les entrées textes et paramétrage, uniquement pour la mécanique interne du jeu.
+
+## Requirement obligatoire
+
+1. Avoir 2 joueurs ou plus (cela doit être paramêtrable)
+2. Afficher le nom du ver
+3. Lorsqu'il ne reste plus qu'un joueur, affiche un message (en gros) "Joueur XX gagne !!"
+4. Mode débutant, un des joueurs fait 25% de dégats en plus avec toutes les armes. Vous devez coder cela avec un seul if.
+5. Créez une grenade qui explose dès qu'elle touche quelque chose  
+6. Créez une super grenade
+7. Créez une grenade qui explose après un certain temps
+8. Fonction inventaire (affiche les armes possédées par le joueur et le nombre de munition lorsqu'on appuie sur I)
+9. Améliorer la fonction changer d'arme
+
+# Evaluation
+
+L'appréciation du public comptera pour environ 1/3 de la note.
+
+
+
+
